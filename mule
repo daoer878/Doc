@@ -13,3 +13,23 @@ Access Management - organisation
 Runtime Manger - Deploy Application
    MULE ESB=MULE=MULE RUNTIME
 Data gateway
+
+##SOAF Web Service  HTTP
+Internet->XML->SOAP->WSDL
+
+RESTful Web Services
+Get Web Service
+
+HTTP message code:
+1xx information
+2xx Successful
+3xx Redirection
+4xx Client ERROR
+5xx Server ERROR
+
+RAML:
+YAML and JSON
+
+Anypoint Studio
+
+Database-> DataWeave (Data sense [type of data])
