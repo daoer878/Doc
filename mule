@@ -4,3 +4,12 @@ API(Interface)(SOAF <-> REST)ENABLE THE BUSINESS TO SELF-SERVICE
 - Governance built in
 =>application network
 
+Connector could dev by ourself
+
+
+Tools:
+API MANAGER
+Access Management - organisation
+Runtime Manger - Deploy Application
+   MULE ESB=MULE=MULE RUNTIME
+Data gateway
