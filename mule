@@ -33,3 +33,6 @@ YAML and JSON
 Anypoint Studio
 
 Database-> DataWeave (Data sense [type of data])
+
+
+Inbound endpoints are message sources (http://www.mulesoft.org/documentation/display/current/Message+Sources), which as the name suggests is where messages are created. They can be created based on external events (like an incoming HTTP request or JMS message) or by polling (like files in a directory).Outbound endpoints and anything else you see in a flow (except exception strategies) are message processors (http://www.mulesoft.org/documentation/display/current/Message+Processors), which means they do something with the message in-flight the flow. Outbound endpoints are message processors that send the current message to "destinations" like a JMS queue, an HTTP server, a file, ...
